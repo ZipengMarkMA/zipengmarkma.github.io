@@ -1,6 +1,6 @@
 ---
 title: "Zipeng MA"
-image: images/ZIPENG.jpg
+image: images/ZipengMA.jpg
 about:
   id: hero-heading
   template: trestles
