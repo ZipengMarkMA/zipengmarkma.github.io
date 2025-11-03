@@ -24,36 +24,40 @@ topics in the Applied Microeconomics.
 
 -   ESSEC Business School and CY Cergy Paris Université (THEMA), Paris\
     PhD in Business Administration (Economics Concentration), 2026
-    (Estimated)
+    (Estimated) \
+    Supervisor: Prof. Jamus Lim
 
 -   University of California, DAVIS, CA  \
-    Visiting Scholar, Feb - Aug 2024
+    Visiting Scholar, Feb - Aug 2024 \
+    Host Supervisor: Prof. Katheryn Russ 
 
 -   ESSEC Business School (Singapore Campus)  \
     Visiting Scholar, Jan - July 2023
 
 -   University College London, London  \
-    MSc. Economics and Policy of Energy and Environment, 2020
+    MSc. Economics and Policy of Energy and Environment, 2020 \
+    Advisor: Prof. Paolo Agnolucci
 
 -   University of Birmingham, Brimingham  \
-    BSc. Money Banking and Finance, 2019
+    BSc. Money Banking and Finance, 2019 \
+    Tutor: Prof. Alessandra Guariglia
 
 -   York University, Toronto  \
     Exchange with scholarship from Chinese government, Summer 2016
 
 ## Research
 
--   The reverse China shock: the factor responses to China trade
-    liberalization. Zipeng MA, Jamus Lim; 2023 (Working Paper)
 -   The reverse China shock on innovations and spillover: evidence from
     manufacturing industries. Zipeng MA; 2025 (Job Market Paper)
+-   The reverse China shock: the factor responses to China trade
+    liberalization. Zipeng MA, Jamus Lim; 2023 (Working Paper)
 -   "China Syndrome" in Aid? The trade effects of Chinese foreign aid
     and firm-level innovation networks. Zipeng MA, Wentao Li; (In
-    Progress)
+    Progress; Draft coming soon)
 -   Benchmarking carbon emissions efficiency in Chinese cities: A
     comparative study based on high-resolution gridded data. (With
     Bofeng Cai, Huanxiu Guo, Zhixuan Wang, Shobhakar Dhakal, Libin Cao);
-    2019; Applied Energy
+    2019; Applied Energy 
 -   Research Assistant at University of Birmingham, Race Equality
     Charter
 
@@ -66,7 +70,7 @@ topics in the Applied Microeconomics.
 -   Teaching Assistant: International Economics
 -   Teaching Assistant: Asia Economics
 
-## Research Interest
+## Research Interests
 
 -   International trade (Labor market, Innovation, Foreign Aid, Patents,
     Networks)
