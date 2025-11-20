@@ -31,9 +31,6 @@ topics in the Applied Microeconomics.
     Visiting Scholar, Feb - Aug 2024 \
     Host Supervisor: Prof. Katheryn Russ 
 
--   ESSEC Business School (Singapore Campus)  \
-    Visiting Scholar, Jan - July 2023
-
 -   University College London, London  \
     MSc. Economics and Policy of Energy and Environment, 2020 \
     Advisor: Prof. Paolo Agnolucci
@@ -42,8 +39,6 @@ topics in the Applied Microeconomics.
     BSc. Money Banking and Finance, 2019 \
     Tutor: Prof. Alessandra Guariglia
 
--   York University, Toronto  \
-    Exchange with scholarship from Chinese government, Summer 2016
 
 ## Research
 
