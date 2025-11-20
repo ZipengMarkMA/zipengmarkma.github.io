@@ -22,7 +22,7 @@ about:
     - icon: 📝
       text: CV
       href: ZipengMACV.pdf
-    - - icon: 📝
+    - icon: 📝
       text: Job Market Paper
       href: ZipengMA_JobMarketPaper.pdf
 ---
